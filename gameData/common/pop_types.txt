@@ -1,0 +1,33 @@
+{
+	"pop_types":[{
+		"id":0,
+		"name":"SLAVES_NAME",
+		
+		"R":25,
+		"G":25,
+		"B":25,
+		
+		"strata":"SLAVES",
+		"area":"RURAL"
+	},{
+		"id":1,
+		"name":"FARMERS_NAME",
+		
+		"R":100,
+		"G":150,
+		"B":70,
+		
+		"strata":"POOR",
+		"area":"RURAL"
+	},{
+		"id":2,
+		"name":"ARTISANS_NAME",
+		
+		"R":150,
+		"G":150,
+		"B":150,
+		
+		"strata":"MIDDLE",
+		"area":"URBAN"
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	"religions":[{
+		"id":10,
+		"name":"CATHOLIC_NAME",
+	
+		"R":220,	
+		"G":220,
+		"B":220,
+		
+		"heresies":[
+			11, 12
+		]
+		
+	},{
+		"id":11,
+		"name":"CATHAR_NAME",
+	
+		"R":250,
+		"G":150,
+		"B":250,
+		
+		"parent_religion":10,
+		
+		"heresies":[
+			10, 12
+		]
+			
+	},{
+		"id":12,
+		"name":"FRATICELLI_NAME",
+	
+		"R":150,
+		"G":150,
+		"B":250,
+		
+		"parent_religion":10,
+
+		"heresies":[
+			10, 11		
+		]		
+	},{
+		"id":20,
+		"name":"NORSE_NAME",
+	
+		"R":125,
+		"G":125,
+		"B":125
+	}]
+}	

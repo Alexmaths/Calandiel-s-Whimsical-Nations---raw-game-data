@@ -1,0 +1,36 @@
+{
+	"localizations":[{
+		"id":"Orkney",
+		"text":"ORKNEY_NAME"
+	},{
+		"id":"Western isles",
+		"text":"WESTERN_ISLES_NAME"
+	},{
+		"id":"Northern Highlands",
+		"text":"NORTHERN_HIGHLANDS_NAME"
+	},{
+		"id":"Southern Highlands",
+		"text":"SOUTHERN_HIGHLANDS_NAME"
+	},{
+		"id":"Rosse",
+		"text":"ROSSE_NAME"
+	},{
+		"id":"Moray",
+		"text":"MORAY_NAME"
+	
+	},{
+		"id":"plains",
+		"text":"PLAINS_NAME"	
+	},{
+		"id":"hills",
+		"text":"HILLS_NAME"	
+	},{
+		"id":"mountains",
+		"text":"MOUNTAINS_NAME"	
+	},{
+		"id":"forest",
+		"text":"FOREST_NAME"
+	
+	
+	}]
+}

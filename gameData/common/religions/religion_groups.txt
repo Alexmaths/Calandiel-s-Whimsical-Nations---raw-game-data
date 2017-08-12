@@ -1,0 +1,26 @@
+    {
+    
+    	"religion_groups":[{
+    		"id":1,
+    		"name":"CHRISTIAN_NAME",
+    	
+    		"R":200,
+    		"G":150,
+    		"B":200,
+    		
+    		"members":[
+    			10,11,12
+    		]
+    	},{
+    		"id":2,
+    		"name":"PAGAN_NAME",
+    	
+    		"R":25,
+    		"G":25,
+    		"B":25,
+    		
+    		"members":[
+    			20
+    		]		
+    	}]
+    }

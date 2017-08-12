@@ -1,0 +1,6 @@
+{
+	"localizations":[{
+		"id":"mod_name_1",
+		"text":"Modded province :3"
+	}]
+}

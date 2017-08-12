@@ -1,0 +1,146 @@
+{
+	"provinces": [{
+		"id": "1",
+		"name": "WESTERN_ISLES_NAME",
+		"R":"100", "G":"0", "B":"0",
+		"terrain_type":"plains",
+		"adjacencies":[ "2", "5" ],
+		"prosperity":1.0,
+		
+		"pops":[{
+			"size":100,
+			"money":500.0,
+
+			"culture":0,
+			"religion":10,
+			
+			"literacy":0.01
+		},{
+			"size":600,
+			"money":500.0,
+
+			"culture":2,
+			"religion":20,
+			
+			"literacy":0.01
+		},{
+			"size":150,
+			"money":500.0,
+
+			"culture":1,
+			"religion":11,
+			
+			"literacy":0.01
+		},{
+			"size":100,
+			"money":500.0,
+
+			"culture":2,
+			"religion":10,
+			
+			"literacy":0.01
+		}]
+		
+	}, {
+		"id": "2",
+		"name": "SOUTHERN_HIGHLANDS_NAME",
+		"R":0, "G":100, "B":0,
+		"terrain_type":"mountains",
+		"adjacencies":[ "1", "3", "5" ],
+		"prosperity":10.0,
+		
+		"pops":[{
+			"size":100,
+			"money":500.0,
+
+			"culture":0,
+			"religion":12,
+			
+			"literacy":0.01
+		},{
+			"size":200,
+			"money":500.0,
+
+			"culture":1,
+			"religion":20,
+			
+			"literacy":0.01
+		}]
+	}, {
+		"id": "3",
+		"name": "NORTHERN_HIGHLANDS_NAME",
+		"R":0, "G":0, "B":100,
+		"terrain_type":"hills",
+		"adjacencies":[ "2", "4" ],
+		"prosperity":150.0,
+		
+		"pops":[{
+			"size":200,
+			"money":500.0,
+
+			"culture":0,
+			"religion":20,
+			
+			"literacy":0.01
+		}]
+	}, {
+		"id": "4",
+		"name": "ORKNEY_NAME",
+		"R":0, "G":50, "B":100,
+		"terrain_type":"hills",
+		"adjacencies":[ "3" ],
+		"prosperity":1.0,
+		
+		"pops":[{
+			"size":500,
+			"money":500.0,
+
+			"culture":0,
+			"religion":10,
+			
+			"literacy":0.01
+		}]
+	}, {
+		"id": "5",
+		"name": "ROSSE_NAME",
+		"R":10, "G":250, "B":100,
+		"terrain_type":"hills",
+		"adjacencies":[ "1", "6", "2" ],
+		"prosperity":0.0,
+		
+		"pops":[{
+			"size":2000,
+			"money":500.0,
+
+			"culture":1,
+			"religion":10,
+			
+			"literacy":0.01
+		},{
+			"size":500,
+			"money":500.0,
+
+			"culture":0,
+			"religion":10,
+			
+			"literacy":0.01
+		}]
+	}, {
+		"id": "6",
+		"name": "MORAY_NAME",
+		"R":255, "G":50, "B":1000,
+		"terrain_type":"hills",
+		"adjacencies":[ "5" ],
+		"prosperity":21.0,
+		
+		"pops":[{
+			"size":7000,
+			"money":500.0,
+
+			"culture":1,
+			"religion":10,
+			
+			"literacy":0.01
+		}]
+	}]
+} 

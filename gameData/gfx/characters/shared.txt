@@ -1,0 +1,7 @@
+{
+	"images":[{
+		"id":"character_backgrounds",
+		"number_of_frames":21,
+		"path":"gfx/characters/shared/backgrounds.png"
+	}]
+}

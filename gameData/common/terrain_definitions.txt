@@ -1,0 +1,35 @@
+{
+	"terrain_types":[{
+		"id":"plains",
+		"R":86,
+		"G":124,
+		"B":27,
+		"name":"plains",
+		"defensiveness":0.0,
+		"movement_cost":0.0
+	}, {
+		"id":"mountains",
+		"R":65,
+		"G":42,
+		"B":17,
+		"name":"mountains",
+		"defensiveness":1.0,
+		"movement_cost":1.0
+	}, {
+		"id":"forest",
+		"R":0,
+		"G":86,
+		"B":6,
+		"name":"forest",
+		"defensiveness":0.25,
+		"movement_cost":0.25
+	}, {
+		"id":"hills",
+		"R":100,
+		"G":86,
+		"B":6,
+		"name":"hills",
+		"defensiveness":0.5,
+		"movement_cost":0.5
+	}]
+}

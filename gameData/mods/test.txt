@@ -1,0 +1,15 @@
+{
+	"id":"test",
+	"name":"test",
+	"provinces_to_add":[
+		"mods/test/provs.txt"
+	],
+	
+	"localizations_to_add":[
+		"mods/test/localizations"
+	],
+	
+	"realms_to_add":[
+		"mods/test/realms.txt"
+	]
+}

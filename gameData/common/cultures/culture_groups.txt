@@ -1,0 +1,25 @@
+{
+	"culture_groups":[{
+		"id":0,
+		"name":"SCOTTISH_CG_LOC",
+		
+		"R":50,
+		"G":50,
+		"B":200,
+
+		"cultures":[
+			0, 2
+		]
+	},{
+		"id":1,
+		"name":"ENGLISH_CG_LOC",
+
+		"R":50,
+		"G":50,
+		"B":200,
+
+		"cultures":[
+			1	
+		]
+	}]
+}

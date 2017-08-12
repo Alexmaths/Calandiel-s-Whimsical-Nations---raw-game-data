@@ -1,0 +1,23 @@
+{
+	"realms":[{
+		"id":"new",
+		"name":"Vikings",
+
+		"R":220, "G":100, "B":100,
+
+		"rank":"COUNTY",
+
+		"provinces":[
+			"7"
+		],
+		"provinces_de_jure":[
+			"7"
+		],
+		"vassals":[
+
+		],
+		"vassals_de_jure":[
+	
+		]
+		}]
+}

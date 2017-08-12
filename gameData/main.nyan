@@ -1,0 +1,42 @@
+{
+	"map_path":"common/maps/terrain.svg",
+	"terrain_types_path":"common/terrain_definitions.txt",
+	"year_definition_path":"common/year.txt",
+	"provinces":[
+		"common/provinces.txt"
+	],
+	"localizations":[
+		"common/localization"
+	],
+	"culture_groups":[
+		"common/cultures/culture_groups.txt"
+	],
+	"cultures":[
+		"common/cultures/cultures_england.txt"
+	],
+	"religion_groups":[
+		"common/religions/religion_groups.txt"
+	],
+	"religions":[
+		"common/religions/religions.txt"
+	],
+	
+	"goods":[
+		"common/goods.txt"
+	],
+
+	"pop_types":[
+		"common/pop_types.txt"
+	],
+	
+	
+	
+	"gfx_cultures":[
+		"gfx/characters/western/GFX.txt"
+	],
+	
+	"gfx_images":[
+		"gfx/characters/western/gfx_images.txt",
+		"gfx/characters/shared.txt"
+	]
+}

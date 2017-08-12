@@ -1,0 +1,43 @@
+{
+	"months":[{
+		"name":"JANUARY_NAME",
+		"lenght":31
+	},{
+		"name":"FEBRUARY_NAME",
+		"lenght":29
+	},{
+		"name":"MARCH_NAME",
+		"lenght":31
+	},{
+		"name":"APRIL_NAME",
+		"lenght":30
+	},{
+		"name":"MAY_NAME",
+		"lenght":31
+	},{
+		"name":"JUNE_NAME",
+		"lenght":30
+	},{
+		"name":"JULY_NAME",
+		"lenght":31
+	},{
+		"name":"AUGUSTUS_NAME",
+		"lenght":31
+	},{
+		"name":"SEPTEMBER_NAME",
+		"lenght":30
+	},{
+		"name":"OCTOBER_NAME",
+		"lenght":31
+	},{
+		"name":"NOVEMBER_NAME",
+		"lenght":30
+	},{
+		"name":"DECEMBER_NAME",
+		"lenght":31
+	}],
+	
+	"starting_year":1339,
+	"starting_month":1,
+	"starting_day":1
+}

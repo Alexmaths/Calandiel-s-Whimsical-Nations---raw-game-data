@@ -1,0 +1,67 @@
+{
+	"cultures":[{
+
+		"id":0,
+
+		"R":50,
+		"G":40,
+		"B":230,
+
+		"name":"SCO_CU_LOC",
+
+		"culture_group":0,
+		"default_ethnicity":"western",
+
+		"female_names":[
+			"Abigail", "Seonaid"
+		],
+		"male_names":[
+			"Ivor", "Jamie"
+		],
+		"surnames":[
+			"1", "2"
+		]
+	},{
+		"id":1,
+
+		"R":250,
+		"G":40,
+		"B":30,
+
+		"name":"ENG_CU_LOC",
+
+		"culture_group":1,
+		"default_ethnicity":"western",
+
+		"female_names":[
+			"Elisabeth", "Victoria"
+		],
+		"male_names":[
+			"John", "Baldric"
+		],
+		"surnames":[
+			"Johnsson", "Smith"
+		]
+	},{
+		"id":2,
+
+		"R":160,
+		"G":160,
+		"B":160,
+
+		"name":"NOR_CU_LOC",
+
+		"culture_group":0,
+		"default_ethnicity":"western",
+
+		"female_names":[
+			"Alva", "Freya"
+		],
+		"male_names":[
+			"Yolm", "Daewon"
+		],
+		"surnames":[
+			"Volk", "Ndorsson"
+		]
+	}]
+}
