@@ -1,24 +1,24 @@
 {
 	"localizations":[{
 		"id":"CATHOLIC_NAME",
-		"text":"catholic"
+		"text":"Catholic"
 	},{
 		"id":"CATHAR_NAME",
-		"text":"cathar"
+		"text":"Cathar"
 	},{
 		"id":"FRATICELLI_NAME",
-		"text":"fraticelli"
+		"text":"Fraticelli"
 	},{
 		"id":"NORSE_NAME",
-		"text":"norse"
+		"text":"Norse"
 	},{
 		"id":"SCO_CU_LOC",
-		"text":"scottish"
+		"text":"Scottish"
 	},{
 		"id":"ENG_CU_LOC",
-		"text":"english"
+		"text":"English"
 	},{
 		"id":"NOR_CU_LOC",
-		"text":"norse"
+		"text":"Norse"
 	}]
 }
