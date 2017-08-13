@@ -19,15 +19,15 @@
 		"text":"Moray"
 	},{
 		"id":"PLAINS_NAME",
-		"text":"plains"
+		"text":"Plains"
 	},{
 		"id":"HILLS_NAME",
-		"text":"hills"
+		"text":"Hills"
 	},{
 		"id":"MOUNTAINS_NAME",
-		"text":"mountains"	
+		"text":"Mountains"	
 	},{
 		"id":"FOREST_NAME",
-		"text":"forest"
+		"text":"Forest"
 	}]
 }
